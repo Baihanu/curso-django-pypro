@@ -5,4 +5,4 @@ pytz==2020.4
 sqlparse==0.4.1
 
 #Heroku
-gunicorn==20.0.4
+gunicorn==21.0.1
